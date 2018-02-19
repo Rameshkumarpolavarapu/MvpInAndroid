@@ -1,6 +1,5 @@
-# MvpInAndroid
+# MvpInAndroid (Simple Login App with MVP Architecture)
 
-Simple Login App with MVP Architecture.
 
 Splash Screen ScreenShot.<br>
 <img src="https://github.com/Rameshkumarpolavarapu/MvpInAndroid/blob/master/splash%20screen.png" alt="Splash Screen ScreenShot" width="160" height="260"><br>
